@@ -31,11 +31,20 @@ const projects = [
   },
   {
     id: 4,
-    title: "Class Photo Attendance System",
+    title: "Major Project: Group Photo Attendance System",
     description:
       "A smart attendance system using image processing with Flask backend and Firebase integration.",
     image: "https://via.placeholder.com/800x600",
     tech: ["Python", "Flask", "Flutter", "Firebase"],
+    category: "ai",
+  },
+  {
+    id: 5,
+    title: "Capstone Project: What should I watch? Randomizer with AI",
+    description:
+      "A web app that suggests movies based on user preferences using AI algorithms.",
+    image: "https://via.placeholder.com/800x600",
+    tech: ["ReactJs", "Java", "SpringBoot", "TailwindCSS", "MongoDB"],
     category: "ai",
   },
 ];
